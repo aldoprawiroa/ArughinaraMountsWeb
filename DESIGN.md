@@ -1,0 +1,5 @@
+# Visual direction
+
+Use the supplied Mewt-style artwork as the source of identity: pale pink sky, layered lilac mountains, deep plum lettering, black bird silhouettes, and a warm flower-lit Roblox landscape. Keep the page light and editorial, with plum for text and actions and dusty rose for small accents. Let the game screenshot and unaltered artwork carry the color and detail; avoid glow, gradients, and ornamental UI. Use a sturdy serif for section titles and a clean sans serif for labels and body text. The feeling is a small, personal game world with recognizable creators, not a studio sales page.
+
+Layout decisions: place the screenshot beside the logo and title so visitors see the game immediately; keep game facts as a short definition list because most metadata is not supplied; tell the provided origin story separately; use portraits in credits to identify the real people attached to the project. On narrow screens, stack the hero and turn navigation into a labeled menu. Keep motion limited to a short reveal and honor reduced-motion preferences.
